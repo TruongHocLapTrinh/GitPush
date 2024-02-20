@@ -1,0 +1,4 @@
+DOC 3,Lien,Orthodontic,1
+DOC 2,Phuong,Obstetric,2
+DOC 1,Nghia,Orthopedics,3
+DOC 4,Dat,Tooth,2
