@@ -1,0 +1,5 @@
+Nghia;Ha Noi;1000.0
+Thanh;HaNoi;2000.0
+Phuong;Ha Noi;1300.0
+DAT;DA NANG;500
+Tram;Sai Gon; aaa
